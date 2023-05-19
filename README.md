@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aayalac
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning ASP.NET
+- 👀 I’m interested in developing C#, Java, JavaScript, SQL And More
+- 🌱 I’m currently learning ASP.NET And Clean Code
 - 💞️ I’m looking to collaborate on Web API´s
-- 📫 How to reach me ...
 
 <!---
 aayalac/aayalac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
