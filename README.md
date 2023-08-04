@@ -2,7 +2,7 @@
 
 Soy ingeniero de sistemas.
 
-- 👀 Actualmente estoy interesado en aprender Cloud Computing, C#, Java, JavaScript, SQL, y varios Frameworks
+- 👀 Actualmente estoy interesado en aprender Cloud Computing, C#, Java, JavaScript, python, SQL, y varios Frameworks
 - 🌱 Me encuentro aprendiendo ASP.NET y Clean Code.
 - 💞️ Busco colaborar a muchas compañias que requieran soluciones tecnologicas y ayudar a mejorar su infraestructura.
 
