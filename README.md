@@ -8,6 +8,7 @@ Soy ingeniero de sistemas.
 
 # Logros:
 - En mi anterior trabajo logre implementar servicios de Directorio Activo, Bases De Datos, NAS, SAN, Firewalls y servicios de Impresión para la compañía donde venia laborando; todo esto gracias al uso de los sistemas operativos Debian, Proxmox VE Y Windows Server.
+- He logrado hacer desarrollos para varios proyectos con tecnologia .NET
 
 # Proyecto actual:
 - Me estoy inclinando en el desarrollo y de soluciones personalizadas de manera transversal, no solo a nivel de red, sino lógicas, implementando aplicativos individuales en ASP .NET, Angular o Django.
