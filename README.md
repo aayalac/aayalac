@@ -7,7 +7,7 @@ Soy ingeniero de sistemas (Graduado en abril de 2022).
 - 🌱 Me encuentro trabajando como Desarrollador .NET Jr. para una multinacional de telecomunicaciones.
 
 # Logros:
-- Logré implementar servicios de Directorio Activo, Bases De Datos, NAS, SAN, Firewalls y servicios de impresión para diferentes clientes; todo esto gracias al uso de los sistemas operativos Debian, Proxmox VE Y Windows Server.
+- Logré implementar servicios de PBX en Asterisk, Directorio Activo, Bases De Datos, NAS, SAN, Firewalls y servicios de impresión para diferentes clientes; todo esto gracias al uso de los sistemas operativos Debian, Proxmox VE Y Windows Server.
 - Desde el 2 de enero del 2023, he logrado hacer desarrollos para varios proyectos con tecnologia .NET.
 
 # Proyectos actuales:
