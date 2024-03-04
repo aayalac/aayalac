@@ -2,7 +2,7 @@
 
 Soy ingeniero de sistemas (Graduado en abril de 2022).
 
-- 👀 Actualmente estoy interesado en aprender Cloud Computing, ASP .NET, Java, JavaScript, Python, SQL, y varios Frameworks (Angular, Django etc.)
+- 👀 Actualmente estoy interesado en aprender Cloud Computing, ASP .NET, Django, Angular, React y SQL.
 - 💞️ Busco colaborar a muchas compañías que requieran soluciones tecnológicas enfocado en mejorar su infraestructura.
 - 🌱 Me encuentro trabajando como Desarrollador .NET Jr. para una multinacional de telecomunicaciones.
 
