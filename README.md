@@ -1,6 +1,6 @@
 # Acerca de mi:
 
-Soy ingeniero de sistemas (Graduado en abril de 2022).
+Soy ingeniero de sistemas.
 
 - 👀 Actualmente estoy interesado en aprender Cloud Computing, ASP .NET, Django, Angular, React y SQL.
 - 💞️ Busco colaborar a muchas compañías que requieran soluciones tecnológicas enfocado en mejorar su infraestructura.
