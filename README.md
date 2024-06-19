@@ -4,7 +4,7 @@ Soy ingeniero de sistemas.
 
 - 👀 Actualmente estoy interesado en aprender Cloud Computing, ASP .NET, Django, Angular, React y SQL.
 - 💞️ Busco colaborar a muchas compañías que requieran soluciones tecnológicas enfocado en mejorar su infraestructura.
-- 🌱 Me encuentro trabajando como Desarrollador .NET Jr. para una multinacional de telecomunicaciones.
+- 🌱 Me encuentro trabajando como Desarrollador .NET.
 
 # Logros:
 - He logrado hacer desarrollos para varios proyectos con tecnologia .NET, incluyendo proyectos de N capas y MVC.
@@ -15,4 +15,4 @@ Soy ingeniero de sistemas.
 - Tambien utilizo APIs dependiendo de las solución requerida.
 - Me estoy inclinando en la implementación de soluciones tecnologicas personalizadas de manera transversal, no solo a nivel de red, sino tambien lógicas, implementando aplicativos individuales en ASP .NET, Angular o Django combinado con la infraestructura de Cloud Computing.
 - Desarrollo de un sitio web donde muestre mi CV.
-- Estoy en camino para certificarme en Azure AZ-900 y AZ-204.
+- Estoy en camino para certificarme en Azure AZ-900, AZ-204 y AZ-500.
