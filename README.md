@@ -7,7 +7,7 @@ Soy ingeniero de sistemas.
 - 🌱 Me encuentro trabajando como Desarrollador .NET Jr. para una multinacional de telecomunicaciones.
 
 # Logros:
-- Desde el 2 de enero del 2023, he logrado hacer desarrollos para varios proyectos con tecnologia .NET, incluyendo proyectos de N capas y MVC.
+- He logrado hacer desarrollos para varios proyectos con tecnologia .NET, incluyendo proyectos de N capas y MVC.
 - Logré implementar servicios de PBX en Asterisk, Directorio Activo, Bases De Datos, NAS, SAN, Firewalls y servicios de impresión para diferentes clientes; todo esto gracias al uso de los sistemas operativos Debian, Proxmox VE Y Windows Server.
 
 # Proyectos actuales:
