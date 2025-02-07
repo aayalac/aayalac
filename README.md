@@ -2,10 +2,10 @@
 
 Soy ingeniero de sistemas.
 
+- 🌱 Me encuentro trabajando como Desarrollador .NET.
 - 👀 Actualmente estoy interesado en aprender Cloud Computing, ASP .NET, Django, Angular, React y SQL.
 - 💞️ Busco colaborar a muchas compañías que requieran soluciones tecnológicas enfocado en mejorar su infraestructura.
-- 🌱 Me encuentro trabajando como Desarrollador .NET.
-
+  
 # Logros:
 - He logrado hacer desarrollos para varios proyectos con tecnologia .NET, incluyendo proyectos de N capas y MVC.
 - Logré implementar servicios de PBX en Asterisk, Directorio Activo, Bases De Datos, NAS, SAN, Firewalls y servicios de impresión para diferentes clientes; todo esto gracias al uso de los sistemas operativos Debian, Proxmox VE Y Windows Server.
