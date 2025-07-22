@@ -15,4 +15,3 @@ Soy ingeniero de sistemas.
 - Tambien utilizo APIs dependiendo de la solución requerida (**API REST, SOAP, WSDL**).
 - Me estoy inclinando en la implementación de soluciones tecnológicas personalizadas de manera transversal, no solo a nivel de red, sino también lógicas, implementando aplicativos individuales en **ASP .NET**, **Angular** u **Odoo** combinado con la infraestructura de Cloud Computing.
 - Estoy en camino para certificarme en Azure **AZ-204, AZ-400** y **AZ-500**.
-- Una de mis fuentes de aprendizaje autodirigido es Microsoft Learn (https://learn.microsoft.com/es-mx/users/miguelangelayalacastillo-7379/transcript/drgkxfppm4rwzk9?tab=tab-modules)
