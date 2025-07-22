@@ -2,7 +2,7 @@
 Soy ingeniero de sistemas.
 
 - Mi actual trabajo es como **Desarrollador .NET**.
-- Actualmente estoy interesado en aprender **Cloud Computing, ASP .NET, Django, Angular, React y SQL**.
+- Actualmente estoy interesado en aprender **ASP .NET, Django, Angular, React, SQL y Cloud Computing, **.
 - Busco colaborar a muchas compañías que requieran soluciones tecnológicas enfocado en mejorar su infraestructura.  
 # Logros:
 - He implementado desarrollos para varios proyectos con tecnologia **.NET**, incluyendo **proyectos de N capas** y **MVC**.
