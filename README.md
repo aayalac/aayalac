@@ -11,7 +11,8 @@ Soy ingeniero de sistemas.
 	- Azure AZ-900: https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/CD6AB482D1C183FE?sharingId=47537DBAB76168DD
 	- Azure SC-900: https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/A9FB89A53B2F119B?sharingId=47537DBAB76168DD
 # Proyectos actuales:
-- Desarrollo mejoras para un aplicativo con patron de diseño en N capas utilizando tecnologia **.NET, JS** y **SQL**, además de utilizar controles de versionamiento como Azure DevOps y git.
+- Desarrollo mejoras para un aplicativo con patron de diseño en N capas utilizando tecnologia **.NET, JS** y **SQL**, además de utilizar controles de versionamiento como **Azure DevOps y git**.
 - Tambien utilizo APIs dependiendo de la solución requerida (**API REST, SOAP, WSDL**).
+- Desarrollo un front en Angular donde mostraré mi **CV**.
 - Me estoy inclinando en la implementación de soluciones tecnológicas personalizadas de manera transversal, no solo a nivel de red, sino también lógicas, implementando aplicativos individuales en **ASP .NET**, **Angular** u **Odoo** combinado con la infraestructura de Cloud Computing.
 - Estoy en camino para certificarme en Azure **AZ-204, AZ-400** y **AZ-500**.
