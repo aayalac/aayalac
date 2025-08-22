@@ -4,7 +4,8 @@ Soy ingeniero de sistemas.
 - Actualmente estoy interesado en aprender **ASP .NET, Django, Angular, React, SQL y Cloud Computing, **.
 - Busco colaborar a muchas compañías que requieran soluciones tecnológicas enfocado en mejorar su infraestructura.  
 # Logros:
-- He implementado desarrollos para varios proyectos con tecnologia **.NET**, incluyendo **proyectos de N capas** y **MVC**.
+- He implementado desarrollos para varios proyectos con tecnologia **.NET**, incluyendo **proyectos de N capas**,  **microservicios**,  **APIs**, y **MVC**.
+- He desarrollado soluciones en bases de datos con tecnologias **SQL Server**, **PL/SQL(Oracle)**, y **Postgres**.
 - He implementado servicios de infraestructura local **(IAAS)** para varios clientes.
 - Estoy certificado en Microsoft con:
 	- Azure AZ-900: https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/CD6AB482D1C183FE?sharingId=47537DBAB76168DD
