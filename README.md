@@ -16,4 +16,4 @@ Soy ingeniero de sistemas.
 - Desarrollo un front en Angular donde mostraré mi **CV**.
 - Estoy desplegando localmente un hosting con servicios de bases de datos, CRM Odoo y microservicios
 - Me estoy inclinando en la implementación de soluciones tecnológicas personalizadas de manera transversal, no solo a nivel de red, sino también lógicas, implementando aplicativos individuales en **ASP .NET**, **Angular** u **Odoo** combinado con la infraestructura de Cloud Computing.
-- Estoy en camino para certificarme en Azure **AZ-204**.
+- Estoy en camino para certificarme en [Azure AZ-204](https://learn.microsoft.com/es-es/credentials/certifications/azure-developer/?practice-assessment-type=certification).
