@@ -4,7 +4,7 @@ Soy ingeniero de sistemas.
 - Actualmente estoy interesado desarrollar en **ASP .NET, Django, Angular, React, SQL y Cloud Computing**.
 - Busco colaborar a muchas compañías que requieran soluciones tecnológicas enfocado en mejorar su infraestructura y automatizar sus operaciones.
 # Logros:
-- He implementado desarrollos para varios proyectos con tecnologia **.NET**, incluyendo **proyectos de N capas**,  **microservicios**,  **APIs**, y **MVC**.
+- He implementado desarrollos para varios proyectos con tecnologia **.NET**, incluyendo **proyectos de N capas**,  **microservicios**,  **APIs**, **MVC** y **Clean Architecture + DDD**.
 - He desarrollado soluciones en bases de datos con tecnologias **SQL Server**, **PL/SQL(Oracle)**, y **Postgres**.
 - He implementado servicios de infraestructura local **(IAAS)** para varios clientes.
 - Estoy certificado en Microsoft con:
