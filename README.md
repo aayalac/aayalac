@@ -1,7 +1,7 @@
-# Acerca de mi: 👋
+# Acerca de mi:
 Soy ingeniero de sistemas.
 - Mi actual trabajo es como **Desarrollador .NET**.
-- Actualmente estoy interesado desarrollar en **ASP .NET, Django, Angular, React, SQL, Cloud Computing y Data Science**.
+- Actualmente estoy interesado desarrollar en **ASP .NET, Django, Angular, React, SQL, Cloud Computing, Data Science, Docker y Kubernetes**.
 - Busco colaborar a muchas compañías que requieran soluciones tecnológicas enfocado en mejorar su infraestructura y automatizar sus operaciones.
 # Logros:
 - He implementado desarrollos para varios proyectos con tecnologia **.NET**, incluyendo **proyectos de N capas**,  **microservicios**,  **APIs**, **MVC** y **Clean Architecture + DDD**.
