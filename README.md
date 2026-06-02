@@ -16,8 +16,8 @@ Soy ingeniero de sistemas.
 # Proyectos actuales:
 - Desarrollo un aplicativo de reserva de viajes para Buses.
 - Implemento un proyecto con **Clean Architecture + DDD**
-- Desarrollo mejoras para un aplicativo con patron de diseño en N capas utilizando tecnologia **.NET, JS** y **SQL**, además de utilizar controles de versionamiento como **Azure DevOps y git**.
 - Tambien utilizo APIs dependiendo de la solución requerida (**API REST, SOAP, WSDL**).
+- Estoy aprendiendo a realizar despliegues de contenedores con **Docker**, **Kubernetes** y **Minikube**.
 - Desarrollo un front en Angular donde mostraré mi **CV**.
 - Estoy desplegando localmente un hosting con servicios de bases de datos, CRM Odoo y microservicios.
 - Haré un pequeño proyecto con el fin de proyectar y mejorar las finanzas (la tecnología esta por definir).
