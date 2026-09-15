@@ -19,6 +19,7 @@ Soy ingeniero de sistemas.
 - Implemento un proyecto con **Clean Architecture + DDD**
 - Tambien utilizo APIs dependiendo de la solución requerida (**API REST, SOAP, WSDL**).
 - Estoy aprendiendo a realizar despliegues de contenedores con **Docker**, **Kubernetes** y **Minikube**.
+- Empleo herramientas de IA para potenciar desarrollos, estimaciones y limpieza de còdigo.
 - Desarrollo un front en Angular donde mostraré mi **CV**.
 - Estoy desplegando localmente un hosting con servicios de bases de datos, CRM Odoo, microservicios y contenedores.
 - Haré un pequeño proyecto con el fin de proyectar y mejorar las finanzas (la tecnología esta por definir).
