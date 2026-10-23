@@ -16,7 +16,7 @@ Soy ingeniero de sistemas.
    	- [Aplicaciones .NET con Docker y Kubernetes](https://1drv.ms/b/c/2c458d813fe54e00/IQCChP-h10GJT76POn7Oxp7cAWY-CXGzK-grY5qx1rocC-E?e=onVRfi).
    	- [.NET 9 Microservices Modular Monolith & Vertical Slice](https://1drv.ms/b/c/2c458d813fe54e00/IQDclGNlSG1oQrUt8A5Lf6ofAVZUDDrAOcIjW0G1Hd_F8-Y?e=lc30Hf).
 # Proyectos actuales:
-- Implemento un proyecto con **Clean Architecture + DDD**
+- Implemento un proyecto con **Clean Architecture + DDD ó vertical Slice**
 - Estoy aprendiendo a realizar despliegues de contenedores con **Docker**, **Kubernetes** y **Minikube**.
 - Empleo herramientas de IA para potenciar desarrollos, estimaciones y limpieza de còdigo.
 - Desarrollo un front en Angular donde mostraré mi **CV**.
