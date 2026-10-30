@@ -7,6 +7,7 @@ Soy ingeniero de sistemas.
 - He implementado desarrollos para varios proyectos con tecnologia **.NET**, incluyendo **proyectos de N capas**,  **microservicios**,  **APIs**, **MVC** y **Clean Architecture + DDD**.
 - He desarrollado soluciones en bases de datos con tecnologias **SQL Server**, **PL/SQL(Oracle)**, y **Postgres**.
 - He implementado servicios de infraestructura local **(IAAS)** para varios clientes.
+- He realizado despliegues con Docker y Kubernetes a través de CI/CD.
 - Estoy certificado en Microsoft con:
 	- [Azure AZ-900](https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/CD6AB482D1C183FE?sharingId=47537DBAB76168DD)
 	- [Azure SC-900](https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/A9FB89A53B2F119B?sharingId=47537DBAB76168DD)
