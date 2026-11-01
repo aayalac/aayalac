@@ -1,8 +1,7 @@
-> Ingeniero de Sistemas • Desarrollador • Cloud • Backend
+## Ingeniero de Sistemas • Desarrollador • Cloud • Backend
 
 [![GitHub](https://img.shields.io/badge/GitHub-aayalac-181717?style=for-the-badge&logo=github)](https://github.com/aayalac)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-tucorreo%40ejemplo.com-D14836?style=for-the-badge&logo=gmail)](mailto:tucorreo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-perfil)
 
 ## Sobre mí
 
