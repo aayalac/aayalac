@@ -33,7 +33,7 @@ Soy ingeniero de sistemas con experiencia en desarrollo de software y soluciones
 
 ## Cursos y formación
 
-He completado varios cursos en la plataforma de Udemy, incluyendo:
+### Udemy:
 
 - [ASP.NET Core y Clean Architecture con Domain Driven Design](https://1drv.ms/b/c/2c458d813fe54e00/IQDpXg_uXCSQS5MSbykvPnOVAY1GOOTsbfqDPxNkrIRPyCQ?e=4dRHoF)
 - [Github Copilot para Programadores .NET](https://1drv.ms/b/c/2c458d813fe54e00/IQBSjP4vs2zxTL5R-nIE-IEHAdoRa0NjGguq801G_TjAy3o?e=klzhxV)
