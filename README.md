@@ -27,11 +27,12 @@ Soy ingeniero de sistemas con experiencia en desarrollo de software y soluciones
 
 - He implementado servicios de infraestructura local (IaaS) para varios clientes.
 - He realizado despliegues con Docker y Kubernetes mediante CI/CD.
-- Estoy certificado por Microsoft:
-  - [Azure AZ-900](https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/CD6AB482D1C183FE?sharingId=47537DBAB76168DD)
-  - [Azure SC-900](https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/A9FB89A53B2F119B?sharingId=47537DBAB76168DD)
 
 ## Cursos y formación
+
+### Microsoft:
+  - [Azure AZ-900](https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/CD6AB482D1C183FE?sharingId=47537DBAB76168DD)
+  - [Azure SC-900](https://learn.microsoft.com/api/credentials/share/es-es/MiguelAngelAyalaCastillo-7379/A9FB89A53B2F119B?sharingId=47537DBAB76168DD)
 
 ### Udemy:
 
